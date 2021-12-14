@@ -1,0 +1,59 @@
+p{
+    color: rgb(110, 110, 110);
+}
+.bg-color{
+    background-color: rgb(253, 222, 222);
+}
+.carousel-item{
+    padding: 20px 40px;
+    
+}
+.myHead{
+    font-family: 'Roboto', sans-serif;
+}
+.value{
+   color: rgb(230, 9, 112);
+}
+.myBtn{
+    background-color:rgb(230, 9, 112);
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+
+
+.catagories{
+    color: white;
+}
+.catagories img{
+    width: 100px;
+}
+.cat{
+    border-radius: 10px;
+    padding: 10px 30px;
+}
+.cat1{
+    background-image: linear-gradient( 109.6deg,  rgba(62,161,219,1) 11.2%, rgba(93,52,236,1) 100.2% );
+}
+.cat2{
+    background-image: linear-gradient( 183.5deg,  rgba(244,173,6,1) 18.6%, rgba(229,251,31,1) 119.9% );
+}
+.cat3{
+    background-image: radial-gradient( circle 860px at 11.8% 33.5%,  rgba(240,30,92,1) 0%, rgba(244,49,74,1) 30.5%, rgba(249,75,37,1) 56.1%, rgba(250,88,19,1) 75.6%, rgba(253,102,2,1) 100.2% );
+}
+
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.card-footer{
+    border-top: none;
+    background-color: white;
+}
+
+#subscribe{
+    height: 300px;
+}
